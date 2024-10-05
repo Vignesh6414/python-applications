@@ -1,0 +1,1 @@
+mycursors.execute("CREATE TABLE customers (Name VARCHAR(255),email VARCHAR(255),password INT, Address VARCHAR(255))")
